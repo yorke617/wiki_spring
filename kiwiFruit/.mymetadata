@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="kiwiFruit"
+  id="myeclipse.1472194349925"
+  context-root="/kiwi"
+  j2ee-spec="5.0"
+  archive="kiwiFruit.war">
+  <attributes>
+    <attribute name="webrootdir" value="/WebRoot" />
+  </attributes>
+</project-module>
+

@@ -1,0 +1,19 @@
+.registButton{
+	background: red;
+	width:80px;
+	height:30px;
+	font-size: 24px;
+	margin: 40px,auto,20px;
+	text-align: center;
+}
+.registButton:hover{cursor: pointer;}
+input{
+	margin-left:10px;
+}
+.header span{
+	width:380px;
+	padding-right:30px;
+}
+.header{
+	width:880px;
+}
